@@ -1,2 +1,2 @@
 # React.js-COUNTER
-I have created counter using react.js  but i have had dynamically used  apicall.
+I have created counter using useState Hook in react.js 
